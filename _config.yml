@@ -127,13 +127,13 @@ content:
   - title: IT Kenntnisse
     layout: text
     content: | # this will include new lines to allow paragraphs
-    sub_title:
-      - MS Office  Sehr Gute Kenntnisse
-      - Python     Grundkenntnisse
-      - Java       Grundkenntnisse
-      - C++        Grundkenntnisse
-      - Swift      Grundkenntnisse
-      - Linux      Grundkenntnisse
+    sub_title: MS Office - Sehr Gute Kenntnisse
+    Python - Grundkenntnisse
+    Java - Grundkenntnisse
+    C++ - Grundkenntnisse
+    Swift - Grundkenntnisse
+    Linux - Grundkenntnisse
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
