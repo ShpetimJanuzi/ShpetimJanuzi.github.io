@@ -127,10 +127,20 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - MS Office
+      - Python
+      - Java
+      - C++
+      - Swift
+      - Linux
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
       Neben meinen Interessen an Netzwerken und Softwaretechnik sind einige meiner anderen Interessen und Hobbys:
       - Reisen
       - Gaming
       - Filme
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
