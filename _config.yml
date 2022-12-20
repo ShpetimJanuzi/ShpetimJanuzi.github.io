@@ -128,12 +128,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: MS Office - Sehr Gute Kenntnisse
-          Python - Grundkenntnisse
-          Java - Grundkenntnisse
-          C++ - Grundkenntnisse
-          Swift - Grundkenntnisse
-          Linux - Grundkenntnisse
+          title: MS Office - Sehr Gute Kenntnisse Python - Grundkenntnisse Java - Grundkenntnisse C++ - Grundkenntnisse Swift - Grundkenntnisse Linux - Grundkenntnisse
 
   - title: A Little More About Me
     layout: text
