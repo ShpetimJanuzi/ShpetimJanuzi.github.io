@@ -44,10 +44,7 @@ linkedin_username: shpetimjanuzi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hallo, mein Name ist Shpëtim und ich bin Student bei der Didact Bildungsgesellschaft mbH.  Ich habe auch ein wenig Erfahrung in der Entwicklung von Software und mobilen Anwendungen. Ich habe in einer Reihe von Unternehmen gearbeitet und dabei Teamarbeit und Führungsqualitäten erworben.
-
-
   I am most skilled in: <mark>Java, Swift</mark> and <mark>Eating Pizza</mark>
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,7 +108,6 @@ content:
           Unter Umschulung versteht man die Aus- bzw. Weiterbildung für eine andere als die vorher ausgeübte oder erlernte Tätigkeit. Kenntnisse und Erfahrungen aus der vorigen Tätigkeit erlauben oft eine Verkürzung der Ausbildung zum neuen Berufsbild gegenüber einem Anfänger.
         description: | # this will include new lines to allow paragraphs
           Bei Didact lerne ich erste Schritte der Softwareentwicklung(haptsächtlich Java) und gleichzeitlich SystemIntegration
-
       - layout: left
         title: VPA University – Ferizaj - Kosovo
         caption: October 2013 - Juni 2016
@@ -120,7 +116,6 @@ content:
           VPA (ein Akronym für Vizioni per Arsim; Deutsch: Vision für Bildung) ist eine private Universität mit Sitz in Ferizaj, Kosovo
         description: | # this will include new lines to allow paragraphs
           Bei VPA University ich habe meine bachelor für Informatik mit angewandter Mathematik abgeschlossen
-
       - layout: left
         title: "Kuvendi i Arberit“ Gymnasium – Ferizaj - Kosovo
         caption: September 2007 - Mai 2010
@@ -129,7 +124,6 @@ content:
           Kuvendi i Arbërit ist ein 1967 gegründetes Gymnasium in Ferizaj, Kosovo
         description: | # this will include new lines to allow paragraphs
           Ich habe meine ersten Erfahrungen mit Computern in der High School gemacht
-
   - title: IT Kenntisse
       layout: text
       content: | # this will include new lines to allow paragraphs
@@ -146,17 +140,13 @@ content:
       - Reisen
       - Gaming
       - Filme
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
-
 # Build settings
 remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
