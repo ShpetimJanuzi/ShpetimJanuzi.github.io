@@ -124,15 +124,6 @@ content:
           Kuvendi i Arbërit ist ein 1967 gegründetes Gymnasium in Ferizaj, Kosovo
         description: | # this will include new lines to allow paragraphs
           Ich habe meine ersten Erfahrungen mit Computern in der High School gemacht
-  - title: IT Kenntisse
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-        - MS Office - Sehr Gute Kenntnisse
-        - Java      - Grundkenntnisse
-        - Python    - Grundkenntnisse
-        - C++       - Grundkenntnisse
-        - Linux     - Grundkenntnisse
-        - Swift     - Grundkenntnisse
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
