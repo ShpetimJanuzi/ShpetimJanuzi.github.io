@@ -108,6 +108,14 @@ content:
           Unter Umschulung versteht man die Aus- bzw. Weiterbildung für eine andere als die vorher ausgeübte oder erlernte Tätigkeit. Kenntnisse und Erfahrungen aus der vorigen Tätigkeit erlauben oft eine Verkürzung der Ausbildung zum neuen Berufsbild gegenüber einem Anfänger.
         description: | # this will include new lines to allow paragraphs
           Bei Didact lerne ich erste Schritte der Softwareentwicklung(haptsächtlich Java) und gleichzeitlich SystemIntegration
+      - layout: left
+        title: VPA University – Ferizaj - Kosovo
+        caption: October 2013 - Juni 2016
+        sub_title: Informatik mit angewandter Mathematik
+        quote: >
+          VPA (ein Akronym für Vizioni per Arsim; Deutsch: Vision für Bildung) ist eine private Universität mit Sitz in Ferizaj, Kosovo
+        description: | # this will include new lines to allow paragraphs
+          Bei VPA University ich habe meine bachelor für Informatik mit angewandter Mathematik abgeschlossen
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
