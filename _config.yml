@@ -80,6 +80,16 @@ content:
           Die Bayerische Motoren Werke Aktiengesellschaft ist ein börsennotierter Automobil- und Motorradhersteller mit Sitz in München, der auch als BMW Group auftritt
         description: | # this will include new lines to allow paragraphs
           ein fleißiger und verantwortungsvoller Arbeiter in der Montage von Autoteilen seit 4 Jahren in Folge für die schönsten Autos
+      - layout: left
+        title: Oniks SHPK Lavazza
+        link: oniks-ks.com
+        # link_text: boringcompany.com
+        sub_title: Verkaufsleiter
+        caption: September 2015 - October 2017
+        quote: >
+          Exklusiver Vertriebspartner für den Kosovo des besten Kaffees Lavazza
+        description: | # this will include new lines to allow paragraphs
+          Kundenberater und Betreuung von Geschäftskunden, Erstellung von Mitarbeiterplänen und Kaffee-Qualitätskontrolle in den Bar/Restaurants
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
