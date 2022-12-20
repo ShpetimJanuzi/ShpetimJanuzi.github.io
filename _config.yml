@@ -66,7 +66,7 @@ content:
         quote: >
           Das ist eine Cooking app
         description: > # this will include new lines to allow paragraphs
-          Dies ist eine iOS-App, die ich während des <mark>App-Entwicklungskurses</mark> bei udemy programmiert habe. Es ist immer noch in anfangs phase.
+          Dies ist eine iOS Application mit xcode programmiert die ich während des <mark>App-Entwicklungskurses</mark> bei udemy programmiert habe. Es ist immer noch in anfangs phase.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
