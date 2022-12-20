@@ -45,6 +45,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hallo, mein Name ist Shpëtim und ich bin Student bei der Didact Bildungsgesellschaft mbH.  Ich habe auch ein wenig Erfahrung in der Entwicklung von Software und mobilen Anwendungen. Ich habe in einer Reihe von Unternehmen gearbeitet und dabei Teamarbeit und Führungsqualitäten erworben.
 
+
   I am most skilled in: <mark>Java, Swift</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -56,16 +57,16 @@ content:
         link: github.com/ShpetimJanuzi/Lena-iOS
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Cooking
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: instagram.com/al6ulena.januzi/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Das ist eine Cooking app
         description: > # this will include new lines to allow paragraphs
-                                                  Dies ist eine iOS-App, die ich während des <mark>App-Entwicklungskurses</mark> bei udemy programmiert habe.
+          Dies ist eine iOS-App, die ich während des <mark>App-Entwicklungskurses</mark> bei udemy programmiert habe. Es ist immer noch in anfangs phase.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -90,7 +91,7 @@ content:
         quote: >
           Unter Umschulung versteht man die Aus- bzw. Weiterbildung für eine andere als die vorher ausgeübte oder erlernte Tätigkeit. Kenntnisse und Erfahrungen aus der vorigen Tätigkeit erlauben oft eine Verkürzung der Ausbildung zum neuen Berufsbild gegenüber einem Anfänger.
         description: | # this will include new lines to allow paragraphs
-                         Bei Didact lerne ich erste Schritte der Softwareentwicklung und wir lernen hauptsächlich Java
+          Bei Didact lerne ich erste Schritte der Softwareentwicklung(haptsächtlich Java) und gleichzeitlich SystemIntegration
 
   - title: A Little More About Me
     layout: text
