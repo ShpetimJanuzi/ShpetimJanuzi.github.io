@@ -65,7 +65,7 @@ content:
         quote: >
           Das ist eine Cooking app
         description: > # this will include new lines to allow paragraphs
-          Dies ist eine iOS-App, die ich während des <mark>App-Entwicklungskurses</mark> bei udemy programmiert habe.
+                                                  Dies ist eine iOS-App, die ich während des <mark>App-Entwicklungskurses</mark> bei udemy programmiert habe.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -90,7 +90,7 @@ content:
         quote: >
           Unter Umschulung versteht man die Aus- bzw. Weiterbildung für eine andere als die vorher ausgeübte oder erlernte Tätigkeit. Kenntnisse und Erfahrungen aus der vorigen Tätigkeit erlauben oft eine Verkürzung der Ausbildung zum neuen Berufsbild gegenüber einem Anfänger.
         description: | # this will include new lines to allow paragraphs
-          Bei Didact lerne ich erste Schritte der Softwareentwicklung und wir lernen hauptsächlich Java
+                         Bei Didact lerne ich erste Schritte der Softwareentwicklung und wir lernen hauptsächlich Java
 
   - title: A Little More About Me
     layout: text
