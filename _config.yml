@@ -84,17 +84,17 @@ content:
       - layout: left
         title: Oniks SHPK Lavazza
         link: oniks-ks.com
-         # link_text: boringcompany.com
+         # link_text:
         sub_title: Verkaufsleiter
          caption: September 2015 - October 2017
          quote: >
-         Exklusiver Vertriebspartner für den Kosovo des besten Kaffees Lavazza
+           Exklusiver Vertriebspartner für den Kosovo des besten Kaffees Lavazza
         description: | # this will include new lines to allow paragraphs
-         Kundenberater und Betreuung von Geschäftskunden, Erstellung von Mitarbeiterplänen und Kaffee-Qualitätskontrolle in den Bar/Restaurants
+           Kundenberater und Betreuung von Geschäftskunden, Erstellung von Mitarbeiterplänen und Kaffee-Qualitätskontrolle in den Bar/Restaurants
       - layout: left
          title: Oniks SHPK Lavazza
           link: oniks-ks.com
-          # link_text: boringcompany.com
+          # link_text:
           sub_title: IT Administrator
           caption: Februar 2011 - Mai 2011
           quote: >
@@ -126,7 +126,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: ShpetimJanuzi.github.io
+remote_theme: Shpetimjanuzi/ShpetimJanuzi.github.io
 
 sass:
   sass_dir: _sass
