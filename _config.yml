@@ -64,20 +64,6 @@ content:
           Das ist eine Cooking app
         description: > # this will include new lines to allow paragraphs
           Dies ist eine iOS App mit xcode programmiert die ich während des <mark>App-Entwicklungskurses</mark> bei udemy programmiert habe. Es ist immer noch in anfangs phase.
-  - layout: top-middle
-    title: Other Github Repositories
-    link: github.com/ShpetimJanuzi/
-      # link_text: Project Website
-    additional_links:
-      - title: Cooking
-        icon: fab fa-github
-        url: instagram.com/al6ulena.januzi/
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      quote: >
-        Übung bei der Umschulung. Einrichtung in Java
-      description: > 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
