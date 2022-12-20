@@ -77,26 +77,26 @@ content:
           Die Bayerische Motoren Werke Aktiengesellschaft ist ein börsennotierter Automobil- und Motorradhersteller mit Sitz in München, der auch als BMW Group auftritt
         description: | # this will include new lines to allow paragraphs
           ein fleißiger und verantwortungsvoller Arbeiter in der Montage von Autoteilen seit 4 Jahren in Folge für die schönsten Autos
-     # - layout: left
-     #   title: Oniks SHPK Lavazza
-     #   link: oniks-ks.com
+      - layout: left
+        title: Oniks SHPK Lavazza
+        link: oniks-ks.com
         # link_text: boringcompany.com
-      #  sub_title: Verkaufsleiter
-     #   caption: September 2015 - October 2017
-     #   quote: >
-     #     Exklusiver Vertriebspartner für den Kosovo des besten Kaffees Lavazza
-     #   description: | # this will include new lines to allow paragraphs
-     #     Kundenberater und Betreuung von Geschäftskunden, Erstellung von Mitarbeiterplänen und Kaffee-Qualitätskontrolle in den Bar/Restaurants
-     # - layout: left
-      #  title: RTV 21 Media
-      #  link: rtv21.tv
-        # link_text:
-      #  sub_title: IT Administrator
-     #   caption: Februar 2011 - Mai 2011
-     #   quote: >
-     #     RTV21 (ein Akronym für Radio Televizioni 21; Englisch: Radio and Television 21) ist ein Medienunternehmen mit Sitz in Pristina, Kosovo, zu dem ein Radiosender (gegründet 1998), ein Fernsehsender (gegründet 1999)
-     #   description: | # this will include new lines to allow paragraphs
-     #     IT Administrator und Überwachung von Kanälen, die über IPTV in die USA übertragen werden
+        sub_title: Verkaufsleiter
+        caption: September 2015 - October 2017
+        quote: >
+          Exklusiver Vertriebspartner für den Kosovo des besten Kaffees Lavazza
+        description: | # this will include new lines to allow paragraphs
+          Kundenberater und Betreuung von Geschäftskunden, Erstellung von Mitarbeiterplänen und Kaffee-Qualitätskontrolle in den Bar/Restaurants
+      - layout: left
+        title: RTV 21 Media
+        link: rtv21.tv
+        # link_text: boringcompany.com
+        sub_title: IT Administrator
+        caption: Februar 2011 - Mai 2011
+        quote: >
+          RTV21 (ein Akronym für Radio Televizioni 21; Englisch: Radio and Television 21) ist ein Medienunternehmen mit Sitz in Pristina, Kosovo, zu dem ein Radiosender (gegründet 1998), ein Fernsehsender (gegründet 1999)
+        description: | # this will include new lines to allow paragraphs
+          IT Administrator und Überwachung von Kanälen, die über IPTV in die USA übertragen werden
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -108,22 +108,31 @@ content:
           Unter Umschulung versteht man die Aus- bzw. Weiterbildung für eine andere als die vorher ausgeübte oder erlernte Tätigkeit. Kenntnisse und Erfahrungen aus der vorigen Tätigkeit erlauben oft eine Verkürzung der Ausbildung zum neuen Berufsbild gegenüber einem Anfänger.
         description: | # this will include new lines to allow paragraphs
           Bei Didact lerne ich erste Schritte der Softwareentwicklung(haptsächtlich Java) und gleichzeitlich SystemIntegration
-   #   - layout: left
-    #    title: VPA University – Ferizaj - Kosovo
-     #   caption: October 2013 - Juni 2016
-     #   sub_title: Informatik mit angewandter Mathematik
-     #   quote: >
-     #     VPA (ein Akronym für Vizioni per Arsim; Deutsch: Vision für Bildung) ist eine private Universität mit Sitz in Ferizaj, Kosovo
-     #   description: | # this will include new lines to allow paragraphs
-     #     Bei VPA University ich habe meine bachelor für Informatik mit angewandter Mathematik abgeschlossen
-   #   - layout: left
-    #    title: "Kuvendi i Arberit“ Gymnasium – Ferizaj - Kosovo
-    #   caption: September 2007 - Mai 2010
-    #    sub_title: Mathematik - Informatik
-     #   quote: >
-     #     Kuvendi i Arbërit ist ein 1967 gegründetes Gymnasium in Ferizaj, Kosovo
-     #   description: | # this will include new lines to allow paragraphs
-     #     Ich habe meine ersten Erfahrungen mit Computern in der High School gemacht
+      - layout: left
+        title: VPA University – Ferizaj - Kosovo
+        caption: October 2013 - Juni 2016
+        sub_title: Informatik mit angewandter Mathematik
+        quote: >
+          VPA (ein Akronym für Vizioni per Arsim; Deutsch: Vision für Bildung) ist eine private Universität mit Sitz in Ferizaj, Kosovo
+        description: | # this will include new lines to allow paragraphs
+          Bei VPA University ich habe meine bachelor für Informatik mit angewandter Mathematik abgeschlossen
+      - layout: left
+        title: "Kuvendi i Arberit“ Gymnasium – Ferizaj - Kosovo
+        caption: September 2007 - Mai 2010
+        sub_title: Mathematik - Informatik
+        quote: >
+          Kuvendi i Arbërit ist ein 1967 gegründetes Gymnasium in Ferizaj, Kosovo
+        description: | # this will include new lines to allow paragraphs
+          Ich habe meine ersten Erfahrungen mit Computern in der High School gemacht
+  - title: IT Kenntisse
+      layout: text
+      content: | # this will include new lines to allow paragraphs
+        - MS Office - Sehr Gute Kenntnisse
+        - Java      - Grundkenntnisse
+        - Python    - Grundkenntnisse
+        - C++       - Grundkenntnisse
+        - Linux     - Grundkenntnisse
+        - Swift     - Grundkenntnisse
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
