@@ -87,6 +87,16 @@ content:
           Exklusiver Vertriebspartner für den Kosovo des besten Kaffees Lavazza
         description: | # this will include new lines to allow paragraphs
           Kundenberater und Betreuung von Geschäftskunden, Erstellung von Mitarbeiterplänen und Kaffee-Qualitätskontrolle in den Bar/Restaurants
+      - layout: left
+        title: RTV 21 Media
+        link: rtv21.tv
+         #link_text:
+        sub_title: IT Administrator
+        caption: Februar 2011 - Mai 2011
+        quote: >
+          RTV21 (ein Akronym für Radio Televizioni 21; Englisch: Radio and Television 21) ist ein Medienunternehmen mit Sitz in Pristina, Kosovo, zu dem ein Radiosender (gegründet 1998), ein Fernsehsender (gegründet 1999)
+        description: | # this will include new lines to allow paragraphs
+          IT Administrator und Überwachung von Kanälen, die über IPTV in die USA übertragen werden
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
