@@ -102,7 +102,7 @@ content:
     content:
       - layout: left
         title: Didact Bildungsgesellschaft mbH
-        caption: April 2022 - Present
+        caption: April 2022 - November 2023
         sub_title: Fachninformatiker Anwendungsentwicklung
         quote: >
           Unter Umschulung versteht man die Aus- bzw. Weiterbildung für eine andere als die vorher ausgeübte oder erlernte Tätigkeit. Kenntnisse und Erfahrungen aus der vorigen Tätigkeit erlauben oft eine Verkürzung der Ausbildung zum neuen Berufsbild gegenüber einem Anfänger.
@@ -133,6 +133,7 @@ content:
       - C++        Grundkenntisse
       - Swift      Grundkenntisse
       - Linux      Grundkenntisse
+      - Delphi     Grundkenntisse
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
