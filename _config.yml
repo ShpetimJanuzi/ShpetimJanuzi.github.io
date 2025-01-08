@@ -127,7 +127,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - MS Office  Sehr Gute Kenntnisse
-      - Networking Gute Kenntnisse
+      - Networking Gute Kenntnisses
       - AWS        Grundkenntisse
       - Python     Grundkenntisse
       - Java       Grundkenntisse
