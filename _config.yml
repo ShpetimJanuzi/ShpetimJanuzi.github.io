@@ -43,8 +43,7 @@ linkedin_username: shpetimjanuzi
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hallo, mein Name ist Shpëtim und ich bin Student bei der Didact Bildungsgesellschaft mbH.  Ich habe auch ein wenig Erfahrung in der Entwicklung von Software und mobilen Anwendungen. Ich habe in einer Reihe von Unternehmen gearbeitet und dabei Teamarbeit und Führungsqualitäten erworben.
-  I am most skilled in: <mark>Java, Swift</mark> and <mark>Eating Pizza</mark>
+  Ich bin ein engagierter und motivierter Fachinformatiker. Ich arbeite strukturiert, lerne schnell und freue mich darauf, mein Wissen in vielseitigen IT-Projekten einzubringen und mich weiterzuentwickeln.: <mark>Java, Swift</mark> and <mark>Eating Pizza</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -128,6 +127,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - MS Office  Sehr Gute Kenntnisse
+      - Networking Gute Kenntnisse
       - Python     Grundkenntisse
       - Java       Grundkenntisse
       - C++        Grundkenntisse
