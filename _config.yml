@@ -128,6 +128,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - MS Office  Sehr Gute Kenntnisse
       - Networking Gute Kenntnisse
+      - AWS        Grundkenntisse
       - Python     Grundkenntisse
       - Java       Grundkenntisse
       - C++        Grundkenntisse
